@@ -7,6 +7,8 @@
 // use this if you want to recursively match all subfolders:
 // 'test/spec/**/*.js'
 
+//Property of Daniel Yule
+
 module.exports = function (grunt) {
 
     // Load grunt tasks automatically
